@@ -18,7 +18,8 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            GENET KASAY APP
+            HELLO WORLD 
           </a>
         </p>
       </header>
